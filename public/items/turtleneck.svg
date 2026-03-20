@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <rect x="80" y="50" width="240" height="290" rx="12" fill="#C4956A" opacity="0.1"/>
+  <path d="M170 80 L170 100 L150 110 L130 140 L110 230 L130 240 L150 220 L150 330 L250 330 L250 220 L270 240 L290 230 L270 140 L250 110 L230 100 L230 80 Z" fill="#C4956A" stroke="#D4A57A" stroke-width="2"/>
+  <rect x="170" y="70" width="60" height="35" rx="8" fill="#B4856A" stroke="#C4956A" stroke-width="1.5"/>
+  <path d="M150 160 Q200 175 250 160" stroke="#B4856A" stroke-width="1" fill="none"/>
+  <path d="M150 200 Q200 215 250 200" stroke="#B4856A" stroke-width="1" fill="none"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">TURTLENECK</text>
+</svg>

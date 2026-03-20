@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M155 110 L185 95 L200 115 L215 95 L245 110 L265 140 L280 230 L265 240 L250 225 L250 330 L150 330 L150 225 L135 240 L120 230 L135 140 Z" fill="#E8E4DC" stroke="#D0CCC4" stroke-width="2"/>
+  <path d="M185 95 L175 140 L195 145" fill="#D0CCC4" stroke="#C0BEB4" stroke-width="1"/>
+  <path d="M215 95 L225 140 L205 145" fill="#D0CCC4" stroke="#C0BEB4" stroke-width="1"/>
+  <line x1="200" y1="145" x2="200" y2="330" stroke="#D0CCC4" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="200" cy="175" r="3" fill="#C0BEB4"/>
+  <circle cx="200" cy="210" r="3" fill="#C0BEB4"/>
+  <circle cx="200" cy="245" r="3" fill="#C0BEB4"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">OPEN COLLAR</text>
+</svg>

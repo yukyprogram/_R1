@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M155 80 L245 80 L250 90 L275 350 L210 350 L200 180 L190 350 L125 350 L150 90 Z" fill="#2C3E6B" stroke="#3C4E7B" stroke-width="2"/>
+  <rect x="155" y="78" width="90" height="15" rx="2" fill="#1C2E5B" stroke="#3C4E7B" stroke-width="1"/>
+  <line x1="200" y1="93" x2="200" y2="180" stroke="#1C2E5B" stroke-width="1.5"/>
+  <path d="M160 120 L165 340" stroke="#243668" stroke-width="0.8" opacity="0.5"/>
+  <path d="M175 110 L180 345" stroke="#243668" stroke-width="0.8" opacity="0.5"/>
+  <path d="M220 345 L225 110" stroke="#243668" stroke-width="0.8" opacity="0.5"/>
+  <path d="M235 340 L240 120" stroke="#243668" stroke-width="0.8" opacity="0.5"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">WIDE PANTS</text>
+</svg>

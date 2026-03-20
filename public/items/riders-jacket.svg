@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M145 100 L195 85 L205 85 L255 100 L275 135 L295 240 L275 255 L255 235 L255 320 L145 320 L145 235 L125 255 L105 240 L125 135 Z" fill="#2A2A2A" stroke="#444" stroke-width="2"/>
+  <path d="M195 85 L180 200 L200 320" stroke="#444" stroke-width="1.5" fill="none"/>
+  <line x1="145" y1="135" x2="180" y2="165" stroke="#C0C0C0" stroke-width="2"/>
+  <circle cx="250" cy="130" r="6" fill="none" stroke="#C0C0C0" stroke-width="1.5"/>
+  <circle cx="250" cy="130" r="2" fill="#C0C0C0"/>
+  <rect x="150" y="240" width="25" height="20" rx="2" fill="#333" stroke="#555" stroke-width="1"/>
+  <path d="M130 140 L140 150" stroke="#666" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">RIDERS JACKET</text>
+</svg>

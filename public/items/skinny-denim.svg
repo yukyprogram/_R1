@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M165 80 L235 80 L238 90 L240 200 L235 350 L215 350 L205 200 L200 180 L195 200 L185 350 L165 350 L160 200 L162 90 Z" fill="#2C4070" stroke="#3C5080" stroke-width="2"/>
+  <rect x="165" y="78" width="70" height="15" rx="2" fill="#1C3060" stroke="#3C5080" stroke-width="1"/>
+  <line x1="200" y1="93" x2="200" y2="178" stroke="#1C3060" stroke-width="1.5"/>
+  <rect x="175" y="105" width="15" height="5" rx="1" fill="#C4A030" opacity="0.6"/>
+  <path d="M170 130 Q200 140 230 130" stroke="#243668" stroke-width="0.8" fill="none"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">SKINNY DENIM</text>
+</svg>

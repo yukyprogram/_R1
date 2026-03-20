@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M150 95 L190 80 L200 100 L210 80 L250 95 L270 125 L290 240 L270 250 L255 235 L260 360 L140 360 L145 235 L130 250 L110 240 L130 125 Z" fill="#B8860B" stroke="#C8960B" stroke-width="2"/>
+  <path d="M190 80 L195 110 L200 100" fill="#A87600" stroke="#C8960B" stroke-width="1"/>
+  <path d="M210 80 L205 110 L200 100" fill="#A87600" stroke="#C8960B" stroke-width="1"/>
+  <line x1="200" y1="100" x2="200" y2="360" stroke="#A87600" stroke-width="1.5"/>
+  <circle cx="193" cy="155" r="3" fill="#1a1a2e"/>
+  <circle cx="193" cy="190" r="3" fill="#1a1a2e"/>
+  <circle cx="193" cy="225" r="3" fill="#1a1a2e"/>
+  <rect x="150" y="180" width="25" height="30" rx="3" fill="#A87600" stroke="#C8960B" stroke-width="1"/>
+  <rect x="225" y="180" width="25" height="30" rx="3" fill="#A87600" stroke="#C8960B" stroke-width="1"/>
+  <text x="200" y="430" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">CHESTER COAT</text>
+</svg>
