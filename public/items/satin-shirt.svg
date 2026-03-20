@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <rect x="80" y="60" width="240" height="280" rx="12" fill="#D4AF37" opacity="0.1"/>
+  <path d="M150 100 L190 85 L200 110 L210 85 L250 100 L270 130 L290 220 L270 230 L250 210 L250 320 L150 320 L150 210 L130 230 L110 220 L130 130 Z" fill="#D4AF37" stroke="#E5C04B" stroke-width="2"/>
+  <path d="M190 85 L200 110 L210 85" fill="#1a1a2e" stroke="#C4A030" stroke-width="1.5"/>
+  <line x1="200" y1="110" x2="200" y2="320" stroke="#C4A030" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="200" cy="150" r="3" fill="#1a1a2e"/>
+  <circle cx="200" cy="180" r="3" fill="#1a1a2e"/>
+  <circle cx="200" cy="210" r="3" fill="#1a1a2e"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">SATIN SHIRT</text>
+</svg>

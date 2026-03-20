@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <rect x="80" y="60" width="240" height="280" rx="12" fill="#4361ee" opacity="0.15"/>
+  <path d="M140 100 L200 80 L260 100 L280 140 L300 240 L280 260 L260 240 L260 320 L140 320 L140 240 L120 260 L100 240 L120 140 Z" fill="#4B6CB7" stroke="#5A7CC7" stroke-width="2"/>
+  <path d="M140 100 L200 120 L260 100" stroke="#3B5CA7" stroke-width="2" fill="none"/>
+  <line x1="200" y1="120" x2="200" y2="320" stroke="#3B5CA7" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="200" cy="160" r="4" fill="#C4A030"/>
+  <circle cx="200" cy="200" r="4" fill="#C4A030"/>
+  <circle cx="200" cy="240" r="4" fill="#C4A030"/>
+  <rect x="145" y="180" width="30" height="35" rx="3" stroke="#3B5CA7" stroke-width="1.5" fill="none"/>
+  <rect x="225" y="180" width="30" height="35" rx="3" stroke="#3B5CA7" stroke-width="1.5" fill="none"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">DENIM JACKET</text>
+</svg>

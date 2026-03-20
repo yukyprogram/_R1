@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M155 105 L185 90 L215 90 L245 105 L270 130 L285 180 L265 190 L250 170 L250 330 L150 330 L150 170 L135 190 L115 180 L130 130 Z" fill="#1C1C1C" stroke="#333" stroke-width="2"/>
+  <path d="M185 90 Q200 100 215 90" stroke="#333" stroke-width="1.5" fill="none"/>
+  <circle cx="200" cy="190" r="35" fill="none" stroke="#E63946" stroke-width="2"/>
+  <path d="M180 180 L195 200 L220 175" stroke="#E63946" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <rect x="175" y="240" width="50" height="3" rx="1" fill="#E63946" opacity="0.5"/>
+  <rect x="180" y="250" width="40" height="3" rx="1" fill="#E63946" opacity="0.3"/>
+  <text x="200" y="420" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">GRAPHIC TEE</text>
+</svg>

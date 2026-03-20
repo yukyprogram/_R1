@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" rx="20" fill="#1a1a2e"/>
+  <path d="M150 105 L190 90 L210 90 L250 105 L270 135 L285 230 L265 240 L250 225 L255 300 L255 310 L145 310 L145 300 L150 225 L135 240 L115 230 L130 135 Z" fill="#556B2F" stroke="#667C3F" stroke-width="2"/>
+  <rect x="145" y="300" width="110" height="15" rx="3" fill="#4A6025" stroke="#667C3F" stroke-width="1"/>
+  <path d="M190 90 Q200 100 210 90" stroke="#667C3F" stroke-width="1.5" fill="none"/>
+  <rect x="215" y="155" width="25" height="30" rx="3" fill="#4A6025" stroke="#667C3F" stroke-width="1"/>
+  <circle cx="240" cy="120" r="5" fill="#FF6B00" stroke="#FF8C33" stroke-width="1"/>
+  <line x1="200" y1="100" x2="200" y2="300" stroke="#4A6025" stroke-width="1.5"/>
+  <text x="200" y="400" text-anchor="middle" fill="#888" font-family="system-ui" font-size="14">MA-1 JACKET</text>
+</svg>
